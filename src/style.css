@@ -1,0 +1,13 @@
+body{
+    background-color: darkgray;
+}
+
+#head-1{
+    text-align: center;
+    font-size: 60px;
+    color: darkblue;
+}
+
+#addBtn{
+    background-color: darkblue;
+}
